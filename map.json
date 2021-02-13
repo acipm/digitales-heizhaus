@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/github.com\/acipm\/digitales-heizhaus\/blob\/master\/Tutorial.md"
+                 "value":"https:\/\/acipm.github.io\/digitales-heizhaus\/tutorial\/tutorial.html"
                 }],
          "type":"tilelayer",
          "visible":true,
