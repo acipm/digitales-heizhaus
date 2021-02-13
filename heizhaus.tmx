@@ -4149,6 +4149,7 @@
  <layer id="40" name="danceFloorCredits" width="100" height="50">
   <properties>
    <property name="openWebsite" value="https://ph4nt24.bandcamp.com/album/viel-l-rm-um-nichts"/>
+   <property name="openWebsiteTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
