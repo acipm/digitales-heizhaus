@@ -4,10 +4,10 @@
   <export target="first-floor.json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="floortileset" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="floortileset.png" width="256" height="256"/>
+  <image source="imgs/floortileset.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="65" name="tilesets_deviant_milkian_1" tilewidth="32" tileheight="32" tilecount="256" columns="16">
-  <image source="tilesets_deviant_milkian_1.png" width="512" height="512"/>
+  <image source="imgs/tilesets_deviant_milkian_1.png" width="512" height="512"/>
   <tile id="1">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -695,7 +695,7 @@
   </tile>
  </tileset>
  <tileset firstgid="321" name="cija_32x32_expansion for Pipoya_CC0" tilewidth="32" tileheight="32" tilecount="2394" columns="18">
-  <image source="cija_32x32_expansion for Pipoya_CC0.png" width="576" height="4256"/>
+  <image source="imgs/cija_32x32_expansion for Pipoya_CC0.png" width="576" height="4256"/>
   <tile id="36">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -3633,13 +3633,13 @@
   </tile>
  </tileset>
  <tileset firstgid="2715" name="01_door" tilewidth="32" tileheight="32" tilecount="8" columns="4">
-  <image source="01_door.png" width="128" height="64"/>
+  <image source="imgs/01_door.png" width="128" height="64"/>
  </tileset>
  <tileset firstgid="2723" name="001_beamer_32x32" tilewidth="32" tileheight="32" tilecount="1" columns="1">
-  <image source="001_beamer_32x32.png" width="32" height="32"/>
+  <image source="imgs/001_beamer_32x32.png" width="32" height="32"/>
  </tileset>
  <tileset firstgid="2724" name="kisspng-rpg-maker-mv-car-motor-vehicle-tile-based-video-ga-car-sprite-5b4ede773fc3a2.9913008915318954152612" tilewidth="32" tileheight="32" tilecount="10" columns="10">
-  <image source="kisspng-rpg-maker-mv-car-motor-vehicle-tile-based-video-ga-car-sprite-5b4ede773fc3a2.9913008915318954152612.png" width="320" height="32"/>
+  <image source="imgs/kisspng-rpg-maker-mv-car-motor-vehicle-tile-based-video-ga-car-sprite-5b4ede773fc3a2.9913008915318954152612.png" width="320" height="32"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -3692,10 +3692,10 @@
   </tile>
  </tileset>
  <tileset firstgid="2734" name="1_Palme_1_0" tilewidth="32" tileheight="32" tilecount="15" columns="5">
-  <image source="1_Palme_1_0.png" width="160" height="96"/>
+  <image source="imgs/1_Palme_1_0.png" width="160" height="96"/>
  </tileset>
  <tileset firstgid="2749" name="02_mate_crates_1" tilewidth="32" tileheight="32" tilecount="3" columns="1">
-  <image source="02_mate_crates_1.png" width="32" height="96"/>
+  <image source="imgs/02_mate_crates_1.png" width="32" height="96"/>
   <tile id="2">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -3703,7 +3703,7 @@
   </tile>
  </tileset>
  <tileset firstgid="2752" name="01_npc" tilewidth="32" tileheight="32" tilecount="2" columns="1">
-  <image source="01_npc.png" width="32" height="64"/>
+  <image source="imgs/01_npc.png" width="32" height="64"/>
   <tile id="1">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -3711,19 +3711,19 @@
   </tile>
  </tileset>
  <tileset firstgid="2754" name="06_container_front1" tilewidth="32" tileheight="32" tilecount="144" columns="16">
-  <image source="06_container_front1.png" width="512" height="288"/>
+  <image source="imgs/06_container_front1.png" width="512" height="288"/>
  </tileset>
  <tileset firstgid="2898" name="dk_lines" tilewidth="32" tileheight="32" tilecount="256" columns="16">
-  <image source="dk_lines.png" width="512" height="512"/>
+  <image source="imgs/dk_lines.png" width="512" height="512"/>
  </tileset>
  <tileset firstgid="3154" name="dk_overlays" tilewidth="32" tileheight="32" tilecount="160" columns="16">
-  <image source="dk_overlays.png" width="512" height="320"/>
+  <image source="imgs/dk_overlays.png" width="512" height="320"/>
  </tileset>
  <tileset firstgid="3314" name="minideko" tilewidth="32" tileheight="32" tilecount="91" columns="7">
-  <image source="minideko.png" width="224" height="416"/>
+  <image source="imgs/minideko.png" width="224" height="416"/>
  </tileset>
  <tileset firstgid="3405" name="d3f90df-0131ad2c-33db-4ad0-bf05-5b4e96e6e250" tilewidth="32" tileheight="32" tilecount="120" columns="8">
-  <image source="d3f90df-0131ad2c-33db-4ad0-bf05-5b4e96e6e250.png" width="256" height="503"/>
+  <image source="imgs/d3f90df-0131ad2c-33db-4ad0-bf05-5b4e96e6e250.png" width="256" height="480"/>
   <tile id="24">
    <properties>
     <property name="collides" type="bool" value="true"/>
@@ -4046,7 +4046,7 @@
   </tile>
  </tileset>
  <tileset firstgid="3525" name="SCc002_zpsa40540e6" tilewidth="32" tileheight="32" tilecount="54" columns="9">
-  <image source="SCc002_zpsa40540e6.png" width="300" height="200"/>
+  <image source="imgs/SCc002_zpsa40540e6.png" width="288" height="192"/>
   <tile id="0">
    <properties>
     <property name="collides" type="bool" value="true"/>
