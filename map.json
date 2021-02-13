@@ -562,7 +562,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"floortileset.png",
+         "image":"imgs\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -575,7 +575,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"imgs\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1759,7 +1759,7 @@
         {
          "columns":18,
          "firstgid":321,
-         "image":"cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"imgs\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -7056,7 +7056,7 @@
         {
          "columns":4,
          "firstgid":2715,
-         "image":"01_door.png",
+         "image":"imgs\/01_door.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
@@ -7069,7 +7069,7 @@
         {
          "columns":1,
          "firstgid":2723,
-         "image":"001_beamer_32x32.png",
+         "image":"imgs\/001_beamer_32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -7082,7 +7082,7 @@
         {
          "columns":10,
          "firstgid":2724,
-         "image":"kisspng-rpg-maker-mv-car-motor-vehicle-tile-based-video-ga-car-sprite-5b4ede773fc3a2.9913008915318954152612.png",
+         "image":"imgs\/kisspng-rpg-maker-mv-car-motor-vehicle-tile-based-video-ga-car-sprite-5b4ede773fc3a2.9913008915318954152612.png",
          "imageheight":32,
          "imagewidth":320,
          "margin":0,
@@ -7186,7 +7186,7 @@
         {
          "columns":5,
          "firstgid":2734,
-         "image":"1_Palme_1_0.png",
+         "image":"imgs\/1_Palme_1_0.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -7199,7 +7199,7 @@
         {
          "columns":1,
          "firstgid":2749,
-         "image":"02_mate_crates_1.png",
+         "image":"imgs\/02_mate_crates_1.png",
          "imageheight":96,
          "imagewidth":32,
          "margin":0,
@@ -7222,7 +7222,7 @@
         {
          "columns":1,
          "firstgid":2752,
-         "image":"01_npc.png",
+         "image":"imgs\/01_npc.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -7245,7 +7245,7 @@
         {
          "columns":16,
          "firstgid":2754,
-         "image":"06_container_front1.png",
+         "image":"imgs\/06_container_front1.png",
          "imageheight":288,
          "imagewidth":512,
          "margin":0,
@@ -7258,7 +7258,7 @@
         {
          "columns":16,
          "firstgid":2898,
-         "image":"dk_lines.png",
+         "image":"imgs\/dk_lines.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -7271,7 +7271,7 @@
         {
          "columns":16,
          "firstgid":3154,
-         "image":"dk_overlays.png",
+         "image":"imgs\/dk_overlays.png",
          "imageheight":320,
          "imagewidth":512,
          "margin":0,
@@ -7284,7 +7284,7 @@
         {
          "columns":7,
          "firstgid":3314,
-         "image":"minideko.png",
+         "image":"imgs\/minideko.png",
          "imageheight":416,
          "imagewidth":224,
          "margin":0,
@@ -7297,7 +7297,7 @@
         {
          "columns":8,
          "firstgid":3405,
-         "image":"d3f90df-0131ad2c-33db-4ad0-bf05-5b4e96e6e250.png",
+         "image":"imgs\/d3f90df-0131ad2c-33db-4ad0-bf05-5b4e96e6e250.png",
          "imageheight":480,
          "imagewidth":256,
          "margin":0,
@@ -7419,7 +7419,7 @@
         {
          "columns":9,
          "firstgid":3525,
-         "image":"SCc002_zpsa40540e6.png",
+         "image":"imgs\/SCc002_zpsa40540e6.png",
          "imageheight":192,
          "imagewidth":288,
          "margin":0,
